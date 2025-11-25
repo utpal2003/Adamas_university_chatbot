@@ -1,0 +1,39 @@
+# -----------------------------
+# React frontend ignore rules
+# -----------------------------
+
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Environment files
+.env
+.env.*
+*.env.local
+*.env.development
+*.env.production
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Cache
+.cache/
+.next/
+*.cache
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local config
+config.local.*
