@@ -1,0 +1,100 @@
+# ADAMAS UNIVERSITY FEE STRUCTURE 2024-25
+# ALL PROGRAMS AND DEPARTMENTS
+
+## UNDERGRADUATE PROGRAMS
+
+PROGRAM: BCA (Bachelor of Computer Applications)
+CATEGORY: UNDERGRADUATE
+DURATION: 3 years (6 semesters)
+TUITION_FEE: ₹45,000 per semester
+TOTAL_TUITION: ₹270,000
+ADDITIONAL_FEES: Examination fee ₹3,000 per semester
+HOSTEL_OPTIONAL: ₹35,000 - ₹60,000 per semester
+
+PROGRAM: BBA (Bachelor of Business Administration)  
+CATEGORY: UNDERGRADUATE
+DURATION: 3 years (6 semesters)
+TUITION_FEE: ₹45,000 per semester
+TOTAL_TUITION: ₹270,000
+ADDITIONAL_FEES: Examination fee ₹3,000 per semester
+HOSTEL_OPTIONAL: ₹35,000 - ₹60,000 per semester
+
+PROGRAM: B.Tech (Computer Science)
+CATEGORY: UNDERGRADUATE  
+DURATION: 4 years (8 semesters)
+TUITION_FEE: ₹85,000 per semester
+TOTAL_TUITION: ₹680,000
+ADDITIONAL_FEES: Laboratory fee ₹5,000 per semester
+HOSTEL_OPTIONAL: ₹35,000 - ₹60,000 per semester
+
+PROGRAM: B.Tech (Electronics)
+CATEGORY: UNDERGRADUATE
+DURATION: 4 years (8 semesters)
+TUITION_FEE: ₹85,000 per semester
+TOTAL_TUITION: ₹680,000
+ADDITIONAL_FEES: Laboratory fee ₹5,000 per semester
+HOSTEL_OPTIONAL: ₹35,000 - ₹60,000 per semester
+
+PROGRAM: B.Sc (Computer Science)
+CATEGORY: UNDERGRADUATE
+DURATION: 3 years (6 semesters)
+TUITION_FEE: ₹35,000 per semester
+TOTAL_TUITION: ₹210,000
+ADDITIONAL_FEES: Examination fee ₹3,000 per semester
+HOSTEL_OPTIONAL: ₹35,000 - ₹60,000 per semester
+
+PROGRAM: BA (English)
+CATEGORY: UNDERGRADUATE
+DURATION: 3 years (6 semesters)
+TUITION_FEE: ₹30,000 per semester
+TOTAL_TUITION: ₹180,000
+ADDITIONAL_FEES: Examination fee ₹3,000 per semester
+HOSTEL_OPTIONAL: ₹35,000 - ₹60,000 per semester
+
+## POSTGRADUATE PROGRAMS
+
+PROGRAM: MCA (Master of Computer Applications)
+CATEGORY: POSTGRADUATE
+DURATION: 2 years (4 semesters)
+TUITION_FEE: ₹75,000 per semester
+TOTAL_TUITION: ₹300,000
+ADDITIONAL_FEES: Development fee ₹10,000 per semester
+HOSTEL_OPTIONAL: ₹35,000 - ₹60,000 per semester
+
+PROGRAM: MBA (Master of Business Administration)
+CATEGORY: POSTGRADUATE
+DURATION: 2 years (4 semesters)
+TUITION_FEE: ₹90,000 per semester
+TOTAL_TUITION: ₹360,000
+ADDITIONAL_FEES: Development fee ₹10,000 per semester
+HOSTEL_OPTIONAL: ₹35,000 - ₹60,000 per semester
+
+PROGRAM: M.Tech (Computer Science)
+CATEGORY: POSTGRADUATE
+DURATION: 2 years (4 semesters)
+TUITION_FEE: ₹80,000 per semester
+TOTAL_TUITION: ₹320,000
+ADDITIONAL_FEES: Laboratory fee ₹5,000 per semester
+HOSTEL_OPTIONAL: ₹35,000 - ₹60,000 per semester
+
+## ADDITIONAL FEES (APPLICABLE TO ALL PROGRAMS)
+
+LIBRARY_FEE: ₹5,000 per year
+SPORTS_FEE: ₹2,000 per year
+STUDENT_WELFARE: ₹1,000 per semester
+CAUTION_DEPOSIT: ₹10,000 (one-time, refundable)
+
+## PAYMENT OPTIONS
+
+OPTION_1: One-time annual payment (5% discount)
+OPTION_2: Semester-wise payment
+OPTION_3: Installment plans available (2-4 installments)
+OPTION_4: Education loan assistance
+OPTION_5: Online payment gateway available
+
+## SCHOLARSHIPS
+
+MERIT_SCHOLARSHIP: Up to 50% fee waiver for top rankers
+SPORTS_SCHOLARSHIP: Fee concession for state/national level players
+SPECIAL_CATEGORY: Scholarships for SC/ST/OBC students
+ALUMNI_DISCOUNT: 10% for siblings of alumni

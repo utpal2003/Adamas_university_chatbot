@@ -1,0 +1,48 @@
+# ADMISSION CRITERIA AND MINIMUM ELIGIBILITY
+
+## I. GENERAL UNIVERSITY REQUIREMENTS
+
+All applicants must meet the following baseline criteria:
+* **Academic Standing:** Must have completed the required preceding qualification (e.g., High School Diploma, Bachelor's Degree) from a recognized institution.
+* **Minimum GPA/Percentage:** A cumulative GPA equivalent of **3.0 on a 4.0 scale** or a minimum aggregate percentage of **75%** in the qualifying examination, unless specified otherwise by the program.
+* **English Proficiency:** Required for all non-native English speakers. Accepted tests and minimum scores:
+    * **TOEFL iBT:** Minimum score of 88 (no sub-score below 20).
+    * **IELTS Academic:** Minimum overall band score of 6.5 (no sub-score below 6.0).
+    * **PTE Academic:** Minimum score of 60.
+    * *Exemption:* Applicants who have completed a full degree taught entirely in English may be exempt.
+
+## II. UNDERGRADUATE PROGRAMS (Bachelor's Degrees)
+
+### A. Bachelor of Science (B.S.) in Engineering (All Disciplines)
+* **Required Qualification:** Completion of High School or equivalent (e.g., A-Levels, IB Diploma).
+* **Subject Prerequisites:** Must have studied **Physics, Chemistry, and Mathematics** at the advanced/senior level.
+* **Minimum Grades:** A minimum grade of **B or equivalent** in all three prerequisite subjects.
+* **Entrance Exam:** Successful completion of the **University Entrance Examination (UEE)** or recognized external equivalent (e.g., SAT Subject Tests in Math and Science).
+
+### B. Bachelor of Arts (B.A.) in Humanities and Social Sciences
+* **Required Qualification:** Completion of High School or equivalent.
+* **Subject Prerequisites:** No strict science prerequisites; emphasis on **strong written and analytical skills**.
+* **Minimum Grades:** Overall minimum GPA/percentage as specified in Section I, with a focus on core subjects like **English and History**.
+* **Portfolio/Interview:** Certain programs (e.g., B.A. in Fine Arts) may require a **portfolio submission** and/or a mandatory **interview**.
+
+## III. GRADUATE PROGRAMS (Master's Degrees)
+
+### A. Master of Science (M.S.) in Computer Science
+* **Required Qualification:** A 4-year Bachelor's degree in Computer Science, Electrical Engineering, or a closely related quantitative field.
+* **Minimum GPA:** A GPA of **3.2 on a 4.0 scale** in the final two years of undergraduate study.
+* **Standardized Test:** **GRE General Test** (Verbal, Quantitative, and Analytical Writing scores required). *Note: Waivers may be granted based on exceptional academic record or professional experience.*
+* **Experience:** Relevant professional or research experience is highly valued but not always mandatory.
+
+### B. Master of Business Administration (MBA)
+* **Required Qualification:** A Bachelor's degree in any discipline.
+* **Minimum GPA:** A GPA of **3.0 on a 4.0 scale**.
+* **Standardized Test:** **GMAT** or **GRE** required.
+* **Professional Experience:** A minimum of **2 years of full-time, post-graduate work experience** is strongly preferred and often required.
+
+## IV. DOCTORAL PROGRAMS (Ph.D.)
+
+* **Required Qualification:** A Master's degree in a directly related field of study.
+* **Minimum GPA:** A GPA of **3.5 on a 4.0 scale** at the graduate level.
+* **Research Proposal:** Submission of a **detailed research proposal** outlining the intended area of study is mandatory.
+* **Recommendation Letters:** A minimum of **three (3) academic recommendation letters** emphasizing research potential.
+* **Interview:** A successful performance in a mandatory **doctoral admissions interview** with the faculty committee.
