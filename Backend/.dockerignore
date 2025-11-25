@@ -1,0 +1,16 @@
+.git
+.gitignore
+README.md
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env
+venv
+.venv
+.idea
+.vscode
+*.log
+chroma_db/local_data
+.DS_Store

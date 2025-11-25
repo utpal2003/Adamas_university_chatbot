@@ -1,0 +1,43 @@
+# -----------------------------
+# Python backend ignore rules
+# -----------------------------
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environment variables (VERY IMPORTANT)
+.env
+.env.*
+*.env
+
+# Logs
+*.log
+
+# Databases
+*.sqlite3
+*.db
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local config
+config.local.*
+settings.local.*

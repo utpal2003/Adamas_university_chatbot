@@ -1,0 +1,82 @@
+
+
+#     # Start everything with one command
+# docker-compose up --build
+
+# # Check running containers
+# docker-compose ps
+
+# # View logs
+# docker-compose logs -f chatbot
+# docker-compose logs -f chromadb
+
+# # Stop everything
+# docker-compose down
+
+
+
+# # Start ChromaDB only
+# docker run -d -p 8000:8000 --name chromadb \
+#   -v chroma_data:/chroma/chroma_data \
+#   chromadb/chroma:latest
+
+# # Build and run chatbot
+# docker build -t adamas-chatbot .
+# docker run -d -p 5000:5000 --name chatbot \
+#   --link chromadb \
+#   -e CHROMA_HOST=chromadb \
+#   -e CHROMA_PORT=8000 \
+#   -v $(pwd)/data:/app/data \
+#   -v $(pwd)/models:/app/models \
+#   adamas-chatbot
+
+
+
+# Method 3: Development Mode with Docker
+# # Start only ChromaDB in Docker, run chatbot locally
+# docker-compose up chromadb -d
+
+# # Then run these locally in your .venv:
+# python data_ingestion.py
+# python train_model.py  
+# python src/api_server.py
+
+
+
+
+# # Health check
+# curl http://localhost:5000/health
+
+# # Chat with bot
+# curl -X POST http://localhost:5000/chat \
+#   -H "Content-Type: application/json" \
+#   -d '{"message": "What are admission requirements?"}'
+
+# # ChromaDB stats
+curl http://localhost:5000/knowledge/stats
+
+
+# curently is used this 
+For Development:
+bash
+# Use Mixed Approach (Recommended)
+docker-compose up chromadb -d  # ChromaDB in Docker
+source .venv/bin/activate     # Chatbot locally
+python data_ingestion.py      # Your normal workflow
+python run_chatbot.p
+
+
+
+For Production:
+bash
+# Use Full Docker
+docker-compose up --build -d  # Everything in Docker
+
+
+
+
+
+
+
+
+docker run -d -p 8000:8000 --name adamas-chromadb -v adamas_chroma_data:/chroma/chroma chromadb/chroma

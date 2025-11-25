@@ -1,0 +1,223 @@
+{
+  "intents": [
+    {
+      "tag": "admission_requirements",
+      "patterns": [
+        "what are the admission requirements",
+        "how do I get admission",
+        "admission process",
+        "documents needed for admission",
+        "eligibility criteria",
+        "minimum marks required",
+        "how to apply for admission",
+        "entry requirements",
+        "qualification needed",
+        "application requirements",
+        "what do I need to apply",
+        "admission procedure steps",
+        "requirements for undergraduate admission",
+        "requirements for postgraduate admission",
+        "is there an entrance exam",
+        "how does the admission work",
+        "criteria for getting into the university",
+        "what is the admission rule"
+      ],
+      "responses": [
+        "Sure, let me tell you the complete admission requirements."
+      ]
+    },
+
+    {
+      "tag": "course_information",
+      "patterns": [
+        "what courses are available",
+        "tell me about courses",
+        "available programs",
+        "what degrees do you offer",
+        "course list",
+        "engineering programs",
+        "management courses",
+        "computer science courses",
+        "btech specializations",
+        "mba programs",
+        "ug courses",
+        "pg courses",
+        "phd programs",
+        "diploma courses",
+        "streams available",
+        "academic programs offered",
+        "show me all courses",
+        "what subjects are offered"
+      ],
+      "responses": [
+        "I can provide you complete information about our academic programs."
+      ]
+    },
+
+    {
+      "tag": "fees_structure",
+      "patterns": [
+        "what are the fees",
+        "fee structure",
+        "tuition fees",
+        "course fees",
+        "total cost of studying",
+        "hostel fees",
+        "semester fees",
+        "annual fees",
+        "fee details",
+        "fee breakdown",
+        "cost of study",
+        "how much does btech cost",
+        "mba fees",
+        "exam fees",
+        "scholarship fee reduction",
+        "payment options",
+        "installment fees",
+        "how much money needed for admission"
+      ],
+      "responses": [
+        "Let me provide you with the fee structure details."
+      ]
+    },
+
+    {
+      "tag": "facilities",
+      "patterns": [
+        "what facilities are available",
+        "campus facilities",
+        "library hours",
+        "hostel information",
+        "sports facilities",
+        "laboratories available",
+        "campus amenities",
+        "is there a gym",
+        "wifi facilities",
+        "computer labs",
+        "transport facilities",
+        "medical support",
+        "cafeteria details",
+        "auditorium information",
+        "infrastructure details",
+        "classroom facilities",
+        "what is inside the campus"
+      ],
+      "responses": [
+        "Sure, let me explain the facilities available at our campus."
+      ]
+    },
+
+    {
+      "tag": "contact_info",
+      "patterns": [
+        "how to contact the university",
+        "phone number",
+        "university email",
+        "contact details",
+        "where is the campus located",
+        "address",
+        "location of university",
+        "admission office contact",
+        "visit campus",
+        "google maps link",
+        "helpline",
+        "how can I reach the university",
+        "contact number please",
+        "campus directions"
+      ],
+      "responses": [
+        "I can share the official contact details of the university."
+      ]
+    },
+
+    {
+      "tag": "scholarship_info",
+      "patterns": [
+        "scholarship available",
+        "types of scholarships",
+        "is there any financial aid",
+        "scholarship for students",
+        "merit scholarship",
+        "fee waiver",
+        "scholarship criteria",
+        "how to apply for scholarship",
+        "financial support programs"
+      ],
+      "responses": [
+        "Here is the scholarship and financial assistance information."
+      ]
+    },
+
+    {
+      "tag": "placement_info",
+      "patterns": [
+        "placement statistics",
+        "placement percentage",
+        "highest package",
+        "lowest package",
+        "which companies visit campus",
+        "placement cell",
+        "career opportunities",
+        "job placements",
+        "industry partners",
+        "internships offered",
+        "average package"
+      ],
+      "responses": [
+        "Let me tell you about placement details."
+      ]
+    },
+
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hi",
+        "hello",
+        "hey",
+        "good morning",
+        "good evening",
+        "good afternoon",
+        "hi there",
+        "hello there",
+        "hey buddy",
+        "greetings",
+        "what's up",
+        "how are you"
+      ],
+      "responses": [
+        "Hello! Welcome to Adamas University. How can I help you today?",
+        "Hi there! I'm here to help with all university information.",
+        "Greetings! How may I assist you?"
+      ]
+    },
+
+    {
+      "tag": "farewell",
+      "patterns": [
+        "bye",
+        "thank you",
+        "thanks",
+        "see you",
+        "goodbye",
+        "that's all",
+        "ok bye",
+        "talk to you later"
+      ],
+      "responses": [
+        "Thank you! Feel free to ask anything anytime.",
+        "Goodbye! Have a great day.",
+        "Happy to assist you! Come back anytime."
+      ]
+    },
+
+    {
+      "tag": "fallback",
+      "patterns": [],
+      "responses": [
+        "I'm sorry, I don't have that information right now. Please contact the university helpdesk.",
+        "Could you please rephrase your question? I'm still learning.",
+        "I'm not fully sure about that. You can reach the student support team for accurate details."
+      ]
+    }
+  ]
+}

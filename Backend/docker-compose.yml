@@ -1,0 +1,16 @@
+services:
+  chromadb:
+    image: chromadb/chroma:latest
+    container_name: adamas_chromadb
+    ports:
+      - "8000:8000"
+    environment:
+      - IS_PERSISTENT=TRUE
+      - PERSIST_DIRECTORY=/chroma/chroma_data
+      - ANONYMIZED_TELEMETRY=false
+    volumes:
+      - chroma_data:/chroma/chroma_data
+    restart: unless-stopped
+
+volumes:
+  chroma_data:
